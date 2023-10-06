@@ -5,9 +5,9 @@
     "passes": 8,
     "pending": 0,
     "failures": 0,
-    "start": "2023-10-05T04:27:06.406Z",
-    "end": "2023-10-05T04:27:06.904Z",
-    "duration": 498
+    "start": "2023-10-06T10:04:00.852Z",
+    "end": "2023-10-06T10:04:02.988Z",
+    "duration": 2136
   },
   "tests": [
     {
@@ -55,7 +55,7 @@
     {
       "title": "should return \"Thank you.\" if the tip is not as generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you.\" if the tip is not as generous",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -115,7 +115,7 @@
     {
       "title": "should return \"Thank you.\" if the tip is not as generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you.\" if the tip is not as generous",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
